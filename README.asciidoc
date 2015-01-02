@@ -1,0 +1,8 @@
+computercraft-lua-scripts
+=========================
+
+Minecraft/ComputerCraft Lua Scripts
+
+Scripts I developed on my private Minecraft server.
+
+I'll put more info up here soon.
