@@ -1,6 +1,8 @@
 computercraft-lua-scripts
 =========================
 
+**NOTE:** Repo is dead for now because I had an addiction to Minecraft.
+
 Minecraft/ComputerCraft Lua Scripts
 
 Scripts I developed on my private Minecraft server.
